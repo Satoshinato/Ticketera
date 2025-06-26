@@ -10,7 +10,7 @@
 
 **ID del Bug:** API-001
 **Fecha:** 26 de Junio de 2025
-**Reportado por:** (Tu Nombre)
+**Reportado por:** Leandro Diaz
 **Severidad:** Crítica
 
 ### Resumen
